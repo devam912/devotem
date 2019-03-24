@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "450112580972",
+    "firebase_url": "https://devotemapp.firebaseio.com",
+    "project_id": "devotemapp",
+    "storage_bucket": "devotemapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450112580972:android:1e55d810eb831077",
+        "android_client_info": {
+          "package_name": "com.example.devotem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450112580972-kafkiuvj1pm6j306vdu8d7sl9sjblojg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.devotem",
+            "certificate_hash": "cc987b25366cc4728bf67054facd2e62420f1a17"
+          }
+        },
+        {
+          "client_id": "450112580972-ej02dehung8hdrkje1ntqim6l66u7hsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4IYWPsBqK9IUD_ci2EeCQbTWX3ry09_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450112580972-ej02dehung8hdrkje1ntqim6l66u7hsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
