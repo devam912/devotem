@@ -181,7 +181,7 @@ public class MainActivity extends AppCompatActivity {
                 if (task.isSuccessful())
                     Toast.makeText(MainActivity.this, "Welcome", Toast.LENGTH_SHORT).show();
                 else
-                    Toast.makeText(MainActivity.this, "error Aut", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "error " + task.getException().getMessage(), Toast.LENGTH_SHORT).show();
             }
 
         });
